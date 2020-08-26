@@ -1,0 +1,116 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    width: 100vw;
+}
+header
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: medium;
+    font-family: 'lobster',cursive;
+}
+#div
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+   
+}
+h1
+{
+    letter-spacing: 5px;
+}
+#enter
+{
+    background-color: skyblue;
+}
+.a
+{
+    padding-top: 50px;
+    padding-left: 250px;
+}
+div
+{
+    background-image: url(maldives.jpg);
+    width: 100vw;
+    height: 400px;
+    background-color: rgba(255,255,255,0.7);
+    background-blend-mode:soft-light;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+#a1 article
+{
+    float: left;
+    width: 20%;
+    padding-right:200px;
+    
+}
+
+form
+{
+    border: 2px solid skyblue;
+    padding: 15px;
+    background-image: url(maldives2.jpg);
+    background-size: cover;
+}
+
+#ar1
+{
+    text-align: center;
+    padding-left: 320px;
+    padding-right: 320px;
+    background-image: url(maldives1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#t1, #td1
+{
+ width: 100%;
+}
+#n
+{
+    padding-right: 50px;
+    padding-left: 150px;
+}
+#h
+{
+    padding-right: 50px;
+    
+    
+}
+#r
+{
+    padding-right: 50px;
+}
+#m
+{
+    padding-right: 50px;
+}
+img
+{
+ opacity: 0.4;
+}
+img:hover
+{
+ opacity: 1.0;
+}
+footer
+{
+ background-color: aqua;
+ padding: 50px;
+ text-align: center;
+}
